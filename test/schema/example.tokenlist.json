@@ -71,3 +71,16 @@
     "patch": 0
   }
 }
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/hoater6-hue/tron-token-assets1/main/assets/trc20/TPHjxwvDiAJtnySMo99ou7Rbqo8cqVhsh/logo.png",
+  "description": "USDT is a stablecoin pegged to the US Dollar, issued by Tether on the TRON network.",
+  "website": "https://tron.network/usdt",
+  "maxLength": 80,
+  "socials": {
+    "twitter": "https://twitter.com/tether_to",
+    "telegram": "https://t.me/tether_news"
+  }
+}
